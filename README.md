@@ -1,6 +1,6 @@
-# splitwise
+# Splitwise
 
-Expense Sharing Application
+##Expense Sharing Application
 The Expense Sharing Application is a backend service for managing shared expenses among multiple users. Users can add expenses, split them among different participants, and keep track of balances.
 
 Features
